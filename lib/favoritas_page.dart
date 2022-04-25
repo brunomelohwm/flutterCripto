@@ -16,6 +16,7 @@ class _FavoritasPageState extends State<FavoritasPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: Text('Moedas Favoritas'),
       ),
       body: Container(
