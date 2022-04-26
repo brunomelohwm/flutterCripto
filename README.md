@@ -1,4 +1,4 @@
-# flutter_aula_1
+# flutter_cripto
 
 A new Flutter project.
 
